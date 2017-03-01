@@ -12,10 +12,10 @@ import static org.junit.Assert.*;
 public class TestCalculator {
     Calculator calculator;
 
-    @Before
-    public void before(){
-        calculator = new Calculator();
-    }
+//    @Before
+//    public void before(){
+//        calculator = new Calculator();
+//    }
 
 
     @Test
